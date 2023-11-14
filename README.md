@@ -4,6 +4,6 @@ Este repositorio contiene los pequeños conjuntos de datos utilizados para las v
 
 ## Contenido del Repositorio
 
-- **datasets:** En el directorio `datasets`, encontrarás los pequeños conjuntos de datos utilizados en el proyecto.
+- **datasets:** Los ficheros .csv son los pequeños datasets que se han usado para las diferentes visualizaciones.
 
-- **visualizaciones:** En el directorio `visualizaciones`, se encuentran los archivos y códigos de las visualizaciones presentadas en el video.
+- **visualizaciones:** los ficheros que empiezan por "Grafico" son las visualizaciones del ejercicio.
